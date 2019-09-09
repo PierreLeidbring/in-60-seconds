@@ -1,7 +1,7 @@
 # Rust -  
 # an introduction
 
----
+---?color=#ffffff
 
 ## Add Some Slide Candy
 
