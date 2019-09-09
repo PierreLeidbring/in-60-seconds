@@ -1,7 +1,10 @@
+---?color=#ffffff
+@snap [midpoint span-50 text-07]
 # Rust -  
 # an introduction
+@snapend
 
----?color=#ffffff
+---
 
 ## Add Some Slide Candy
 
